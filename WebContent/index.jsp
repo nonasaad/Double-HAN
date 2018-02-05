@@ -27,6 +27,9 @@
   <button class="btn_sign_up" onclick="cambiar_sign_up()">SIGN UP</button>
  </div>
    </div>
+   
+   
+   
        </div>
      <div class="cont_back_info">
         <div class="cont_img_back_grey">
