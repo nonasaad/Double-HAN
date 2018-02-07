@@ -1,6 +1,30 @@
 /* ------------------------------------ Click on login and Sign Up to  changue and view the effect
 ---------------------------------------
 */
+div#wrapper{
+	width:710px;
+	height:710px;
+}
+
+div.imgContent{
+	height:200px;
+	width:200px;
+	border:5px solid#000000;
+	float:left;
+	margin:75px;
+}
+
+/*Rounded image corner*/
+.rounded-image{
+	border-radius: 20%;
+}
+
+.text-right{
+	position: relative;
+	left: 50px;
+}
+
+
 
 * {
   margin: 0px auto;
