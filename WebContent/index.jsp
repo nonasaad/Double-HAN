@@ -8,6 +8,9 @@
  <script type="text/javascript" src="resources/javaScript/scripts.js"></script>
  </head>
  <body>
+ 
+  <%--What the **** --%>
+  
  <div class="cotn_principal">
  <div class="cont_centrar">
 
